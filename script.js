@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the 18th!";
+  question.innerHTML = "I'm sorry! I love you, babe";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://tenor.com/view/sad-dog-sorry-husky-funny-animals-begging-gif-13185029";
 });
 
 noBtn.addEventListener("mouseover", () => {
